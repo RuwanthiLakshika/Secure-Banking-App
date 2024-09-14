@@ -5,7 +5,7 @@ import tw from 'twrnc'
 const Index = () => {
   return (
     <View>
-      <Text style={tw`text-2xl font-bold text-red-500`}>Welcome to BankEase</Text>
+      <Text style={tw`text-2xl font-bold`}>Welcome to BankEase</Text>
     </View>
   )
 }
